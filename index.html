@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html ng-app="scotchApp">
+  <head>
+  <!-- SCROLLS -->
+  <link rel="stylesheet" href="vendor/bootstrap.min.css" />
+  <link rel="stylesheet" href="vendor/font-awesome.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="vendor/bootstrap-3.3.4/dist/css/bootstrap.min.css" />
+
+  <!-- vendor -->
+    <script type="text/javascript" src="vendor/angular1.2.25.min.js"></script>
+    <script type="text/javascript" src="vendor/ajax1.2.25.js"></script>
+    <script type="text/javascript" src="vendor/ui-bootstrap-tpls-0.12.1.min.js"></script>
+    <script type="text/javascript" src="vendor/bootstrap-3.3.4/dist/js/bootstrap.min.js"></script>
+
+  <script src="app.js"></script>
+</head>
+
+  <body ng-controller="mainController">
+
+  <div id="main">
+
+    <!-- Placement des liens sur le menu -->
+    <div class="main_menu">
+      <a class="pageUscol" href="#pageUscol">Page1</a>
+      <a class="pageCompliance" href="#pageCompliance">Page2</a>
+      <a class="pageQualite" href="#pageQualite">Page3</a>
+      <a class="pageReussite" href="#pageReussite">Page4</a>
+      <a class="pageAcceptabilite" href="#pageAcceptabilite">Page5</a>
+      <a class="pageTolerance" href="#pageTolerance">Page6</a>
+      <a class="pageEvidence" href="#pageEvidence">Page7</a>
+      <a class="pagePosologie" href="#pagePosologie">Page8</a>
+      <a class="pageBonUsage" href="#pageBonUsage">Page9</a>
+
+      <a class="pageHome" href="#pageHome">PageH</a>
+      <a class="pagePDF" href="#pagePDF">PagePDF</a>
+      <a class="pageR" href="#pageR">PageR</a>
+
+    </div>
+  
+    <!-- angular templating -->
+		<!-- this is where content will be injected -->
+    <div ng-view></div>
+    
+  </div>
+
+  </body>
+</html>

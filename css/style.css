@@ -1,0 +1,271 @@
+/* Styles go here INDEX */
+#main{
+
+}
+
+.pageUscol{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 708px;
+}
+
+.pageCompliance{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 770px;
+}
+
+.pageQualite{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 843px;
+}
+
+.pageReussite{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 904px;
+}
+
+.pageAcceptabilite{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 983px;
+}
+
+.pageTolerance{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 1065px;
+}
+
+.pageEvidence{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 1155px;
+}
+
+.pagePosologie{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 1247px;
+}
+
+.pageBonUsage{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 1340px;
+}
+
+.pageHome{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 653px;
+}
+
+.pagePDF{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 1403px;
+}
+
+.pageR{
+	position: absolute;
+	margin-top: 625px;
+	margin-left: 1465px;
+}
+
+
+/*******************************/
+
+/* Styles go here USCOL */
+.lien_modal{
+
+}
+
+.modal_uscol{
+	position: absolute;
+	margin-top: -205px;
+	margin-left: -110px;
+}
+
+
+
+/*******************************/
+
+/* Styles go here COMPLIANCE */
+.lien_modal{
+
+}
+
+
+.modalCloseComp{
+	position: absolute;
+	margin-top: -545px;
+	margin-left: 310px;
+}
+
+
+.modalCloseComp2{
+	position: absolute;
+	margin-top: -505px;
+	margin-left: 265px;
+}
+
+
+
+.modal1{
+	position: absolute;
+	margin-top: -545px;
+	margin-left: 185px;
+}
+
+.modal2{
+	position: absolute;
+	margin-top: -545px;
+	margin-left: 310px;
+}
+
+
+
+
+.modal3{
+	position: absolute;
+	margin-top: -495px;
+	margin-left: -345px;
+}
+
+.modal4{
+	position: absolute;
+	margin-top: -425px;
+	margin-left: -345px;
+}
+
+.modal5{
+	position: absolute;
+	margin-top: -365px;
+	margin-left: -345px;
+}
+
+.modal6{
+	position: absolute;
+	margin-top: -305px;
+	margin-left: -345px;
+}
+
+.modal7{
+	position: absolute;
+	margin-top: -240px;
+	margin-left: -345px;
+}
+
+.modal8{
+	position: absolute;
+	margin-top: -180px;
+	margin-left: -345px;
+}
+
+
+
+
+
+/***TOLERENCE***/
+.css1{
+	position: absolute;
+	margin-top: -435px;
+	margin-left: -345px;
+}
+
+.css2{
+	position: absolute;
+	margin-top: -275px;
+	margin-left: -345px;
+}
+
+
+
+
+
+/****Evidence****/
+.click1Evi{
+	position: absolute;
+	margin-top: -495px;
+	margin-left: -27px;
+}
+
+.click2Evi{
+	position: absolute;
+	margin-top: -395px;
+	margin-left: -27px;
+}
+
+.click3Evi{
+	position: absolute;
+	margin-top: -295px;
+	margin-left: -27px;
+}
+
+
+
+
+
+/***POSOLOGIE***/
+.ps1{
+	position: absolute;
+	margin-top: -495px;
+	margin-left: -340px;
+}
+
+.ps2{
+	position: absolute;
+	margin-top: -425px;
+	margin-left: -340px;
+}
+
+.ps3{
+	position: absolute;
+	margin-top: -370px;
+	margin-left: -340px;
+}
+
+.ps4{
+	position: absolute;
+	margin-top: -305px;
+	margin-left: -340px;
+}
+
+.ps5{
+	position: absolute;
+	margin-top: -240px;
+	margin-left: -340px;
+}
+
+.ps6{
+	position: absolute;
+	margin-top: -180px;
+	margin-left: -340px;
+}
+
+
+
+
+/* +&&- */
+.ps7{
+	position: absolute;
+	margin-top: -415px;
+	margin-left: -220px;
+}
+
+
+/* PDF && R */
+.closePDF{
+	position: absolute;
+	margin-top: -510px;
+	margin-left: 310px;
+}
+
+.closeR{
+	position: absolute;
+	margin-top: -465px;
+	margin-left: 250px;
+}
