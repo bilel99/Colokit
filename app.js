@@ -202,6 +202,18 @@
 
 
 
+			/// USCOL ///
+			.when('/mod', {
+				templateUrl : 'templates/mod.html',
+				controller  : 'ModController'
+			})
+			.when('/mod2', {
+				templateUrl : 'templates/mod2.html',
+				controller  : 'Mod2Controller'
+			})
+
+
+
 
 	});
 
@@ -350,6 +362,17 @@
 	scotchApp.controller('Ps7Controller', function($scope) {
 		$scope.message = '';
 	});
+
+
+
+
+	scotchApp.controller('ModController', function($scope) {
+		$scope.message = '';
+	});
+	scotchApp.controller('Mod2Controller', function($scope) {
+		$scope.message = '';
+	});
+	
 
 
 	

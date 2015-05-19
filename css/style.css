@@ -8,11 +8,17 @@
 	margin-top: 625px;
 	margin-left: 708px;
 }
+.pageUscol span{
+	visibility: hidden;
+}
 
 .pageCompliance{
 	position: absolute;
 	margin-top: 625px;
 	margin-left: 770px;
+}
+.pageCompliance span{
+	visibility: hidden;
 }
 
 .pageQualite{
@@ -20,11 +26,17 @@
 	margin-top: 625px;
 	margin-left: 843px;
 }
+.pageQualite span{
+	visibility: hidden;
+}
 
 .pageReussite{
 	position: absolute;
 	margin-top: 625px;
 	margin-left: 904px;
+}
+.pageReussite span{
+	visibility: hidden;
 }
 
 .pageAcceptabilite{
@@ -32,11 +44,17 @@
 	margin-top: 625px;
 	margin-left: 983px;
 }
+.pageAcceptabilite span{
+	visibility: hidden;
+}
 
 .pageTolerance{
 	position: absolute;
 	margin-top: 625px;
 	margin-left: 1065px;
+}
+.pageTolerance span{
+	visibility: hidden;
 }
 
 .pageEvidence{
@@ -44,11 +62,17 @@
 	margin-top: 625px;
 	margin-left: 1155px;
 }
+.pageEvidence span{
+	visibility: hidden;
+}
 
 .pagePosologie{
 	position: absolute;
 	margin-top: 625px;
 	margin-left: 1247px;
+}
+.pagePosologie span{
+	visibility: hidden;
 }
 
 .pageBonUsage{
@@ -56,11 +80,17 @@
 	margin-top: 625px;
 	margin-left: 1340px;
 }
+.pageBonUsage span{
+	visibility: hidden;
+}
 
 .pageHome{
 	position: absolute;
 	margin-top: 625px;
 	margin-left: 653px;
+}
+.pageHome span{
+	visibility: hidden;
 }
 
 .pagePDF{
@@ -68,11 +98,17 @@
 	margin-top: 625px;
 	margin-left: 1403px;
 }
+.pagePDF span{
+	visibility: hidden;
+}
 
 .pageR{
 	position: absolute;
 	margin-top: 625px;
 	margin-left: 1465px;
+}
+.pageR span{
+	visibility: hidden;
 }
 
 
@@ -87,6 +123,9 @@
 	position: absolute;
 	margin-top: -205px;
 	margin-left: -110px;
+}
+.modal_uscol span{
+	visibility: hidden;
 }
 
 
@@ -104,12 +143,18 @@
 	margin-top: -545px;
 	margin-left: 310px;
 }
+.modalCloseComp span{
+	visibility: hidden;
+}
 
 
 .modalCloseComp2{
 	position: absolute;
 	margin-top: -505px;
 	margin-left: 265px;
+}
+.modalCloseComp2 span{
+	visibility: hidden;
 }
 
 
@@ -119,11 +164,17 @@
 	margin-top: -545px;
 	margin-left: 185px;
 }
+.modal1 span{
+	visibility: hidden;
+}
 
 .modal2{
 	position: absolute;
 	margin-top: -545px;
 	margin-left: 310px;
+}
+.modal2 span{
+	visibility: hidden;
 }
 
 
@@ -134,11 +185,17 @@
 	margin-top: -495px;
 	margin-left: -345px;
 }
+.modal3 span{
+	visibility: hidden;
+}
 
 .modal4{
 	position: absolute;
 	margin-top: -425px;
 	margin-left: -345px;
+}
+.modal4 span{
+	visibility: hidden;
 }
 
 .modal5{
@@ -146,11 +203,17 @@
 	margin-top: -365px;
 	margin-left: -345px;
 }
+.modal5 span{
+	visibility: hidden;
+}
 
 .modal6{
 	position: absolute;
 	margin-top: -305px;
 	margin-left: -345px;
+}
+.modal6 span{
+	visibility: hidden;
 }
 
 .modal7{
@@ -158,11 +221,17 @@
 	margin-top: -240px;
 	margin-left: -345px;
 }
+.modal7 span{
+	visibility: hidden;
+}
 
 .modal8{
 	position: absolute;
 	margin-top: -180px;
 	margin-left: -345px;
+}
+.modal8 span{
+	visibility: hidden;
 }
 
 
@@ -175,11 +244,17 @@
 	margin-top: -435px;
 	margin-left: -345px;
 }
+.css1 span{
+	visibility: hidden;
+}
 
 .css2{
 	position: absolute;
 	margin-top: -275px;
 	margin-left: -345px;
+}
+.css2 span{
+	visibility: hidden;
 }
 
 
@@ -192,17 +267,26 @@
 	margin-top: -495px;
 	margin-left: -27px;
 }
+.click1Evi span{
+	visibility: hidden;
+}
 
 .click2Evi{
 	position: absolute;
 	margin-top: -395px;
 	margin-left: -27px;
 }
+.click2Evi span{
+	visibility: hidden;
+}
 
 .click3Evi{
 	position: absolute;
 	margin-top: -295px;
 	margin-left: -27px;
+}
+.click3Evi span{
+	visibility: hidden;
 }
 
 
@@ -215,11 +299,17 @@
 	margin-top: -495px;
 	margin-left: -340px;
 }
+.ps1 span{
+	visibility: hidden;
+}
 
 .ps2{
 	position: absolute;
 	margin-top: -425px;
 	margin-left: -340px;
+}
+.ps2 span{
+	visibility: hidden;
 }
 
 .ps3{
@@ -227,11 +317,17 @@
 	margin-top: -370px;
 	margin-left: -340px;
 }
+.ps3 span{
+	visibility: hidden;
+}
 
 .ps4{
 	position: absolute;
 	margin-top: -305px;
 	margin-left: -340px;
+}
+.ps4 span{
+	visibility: hidden;
 }
 
 .ps5{
@@ -239,11 +335,17 @@
 	margin-top: -240px;
 	margin-left: -340px;
 }
+.ps5 span{
+	visibility: hidden;
+}
 
 .ps6{
 	position: absolute;
 	margin-top: -180px;
 	margin-left: -340px;
+}
+.ps6 span{
+	visibility: hidden;
 }
 
 
@@ -255,6 +357,9 @@
 	margin-top: -415px;
 	margin-left: -220px;
 }
+.ps7 span{
+	visibility: hidden;
+}
 
 
 /* PDF && R */
@@ -263,9 +368,47 @@
 	margin-top: -510px;
 	margin-left: 310px;
 }
+.closePDF span{
+	visibility: hidden;
+}
 
 .closeR{
 	position: absolute;
 	margin-top: -465px;
 	margin-left: 250px;
+}
+.closeR span{
+	visibility: hidden;
+}
+
+
+
+
+
+/*USCOL*/
+.modal_exit{
+	position: absolute;
+	margin-top: -575px;
+	margin-left: 350px;
+}
+.modal_exit span{
+	visibility: hidden;
+}
+
+.next{
+	position: absolute;
+	margin-top: -535px;
+	margin-left: 350px;
+}
+.next span{
+	visibility: hidden;
+}
+
+.prev{
+	position: absolute;
+	margin-top: -90px;
+	margin-left: 350px;
+}
+.prev span{
+	visibility: hidden;
 }
